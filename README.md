@@ -11,14 +11,14 @@ This project involves analyzing and classifying ECG (Electrocardiogram) images u
 
 ## Project Structure
 
-1. **`ecg_eda.py`**
+1. **`ECG_Exploratory_data_analysis_final.ipynb`**
     - Purpose: Perform exploratory data analysis (EDA) and preprocess the ECG dataset.
     - Key Features:
         - Data visualization (e.g., class distributions and sample images).
         - Data normalization and balancing.
         - Generates insights into the dataset for effective model training.
 
-2. **`ECG_model_training.py`**
+2. **`ECG_model_training_final.ipynb`**
     - Purpose: Train and evaluate deep learning models on the ECG dataset.
     - Models Implemented:
         - Simple CNN
